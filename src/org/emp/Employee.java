@@ -17,6 +17,12 @@ public class Employee {
 	private void empAddress() {
 		System.out.println("The Employee Address is location in Chennai, TamilNadu");
 	}
+	
+	private void emp1Giit() {
+		System.out.println("Employee 1 from GitHub");
+
+	}
+	
 	public static void main(String[] args) {
 		Employee e=new Employee();
 		
