@@ -21,8 +21,11 @@ public class Employee {
 	private void emp1Giit() {
 		System.out.println("Employee 1 from GitHub");
 
+	}	private void emp2Git() {
+		System.out.println("Emp2 has updated the code");
+
 	}
-	
+
 	public static void main(String[] args) {
 		Employee e=new Employee();
 		
