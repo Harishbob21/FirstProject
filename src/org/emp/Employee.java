@@ -18,10 +18,14 @@ public class Employee {
 		System.out.println("The Employee Address is location in Chennai, TamilNadu");
 	}
 	
-	private void emp2Git() {
+	private void emp1Giit() {
+		System.out.println("Employee 1 from GitHub");
+
+	}	private void emp2Git() {
 		System.out.println("Emp2 has updated the code");
 
 	}
+
 	public static void main(String[] args) {
 		Employee e=new Employee();
 		
